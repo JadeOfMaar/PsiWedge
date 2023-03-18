@@ -1,8 +1,8 @@
 # Psi Wedge
 
 ## 0.9.3
-* Added Fishing Drone wedge: Produces Fish resource every few hours. (Requires Buffalo 2)
-* Added CookBook basic experiment. (Requires Buffalo 2)
+* Added Fishing Drone wedge: Produces Fish resource every few hours. (Requires Buffalo 2 but not also Snacks and SunkWorks.)
+* Added CookBook basic experiment. (Requires Buffalo 2.)
 
 ## 0.9.2
 * Fixed fuel tank patch problem that caused fuel wedge to not appear.
