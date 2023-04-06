@@ -1,5 +1,9 @@
 # Psi Wedge
 
+## 0.9.4
+* Added antenna JNSQ patch.
+* Fixed probe core being dead.
+
 ## 0.9.3
 * Added CookBook basic experiment. (Requires Buffalo 2.)
 * Added Fishing Drone wedge: Produces Fish resource every few hours. (Requires Buffalo 2 but not also Snacks and SunkWorks.)
