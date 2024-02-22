@@ -1,5 +1,12 @@
 # Psi Wedge
 
+## 0.9.5
+* Added CookBook basic experiment. (Requires Fishing Drone wedge on ship and Buffalo 2 mod installed.)
+* Added missing solar panel modules.
+* Updated cost, capability and CTT location of wedge RTG.
+* Updated localization in several places.
+* Updated subtype names in 1.25m rack. May upset some craft files.
+
 ## 0.9.4
 * Added antenna JNSQ patch.
 * Fixed probe core being dead.
