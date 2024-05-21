@@ -1,6 +1,9 @@
 # Psi Wedge
 
 ## 0.9.5
+* Added Kerbalism SystemHeat detection for the LabTime converters.
+
+## 0.9.5
 * Added CookBook basic experiment. (Requires Fishing Drone wedge on ship and Buffalo 2 mod installed.)
 * Added missing solar panel modules.
 * Updated cost, capability and CTT location of wedge RTG.
