@@ -1,6 +1,12 @@
 # Psi Wedge
 
-## 0.9.5
+## 0.9.6
+* Added Remote Tech detection for height switch in the Antenna wedge.
+* Fixed texture replace problems on black experiment kits.
+* Added System Heat for nuclear reactor wedge.
+* Added missing bulkheadProfiles to racks.
+
+## 0.9.5.1
 * Added Kerbalism SystemHeat detection for the LabTime converters.
 
 ## 0.9.5
